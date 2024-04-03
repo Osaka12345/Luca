@@ -16,8 +16,8 @@
             1- Falta el punto y coma
             2- El nombre de la variable puede confundir
             3- Puede confundir ya que el nombre 
-               de la variable es numero pero almacena un dato de tipo Stirng
-            4- No declara al variable y el nombre comienza con mayus
+               de la variable es "numero" pero almacena un dato de tipo String
+            4- No declara la variable y el nombre comienza con mayus
             5- No declara la variable y no hay ";"
             6- El "$" no deberia estar
 
