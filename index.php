@@ -9,7 +9,7 @@
     <h1>Letra</h1>
     <?php
         echo 'No se si hice bien, pero llame';
-        echo 'No me gusto lo que escuche';
+        echo ' No me gusto lo que escuche';
     ?>
 
 </body>
